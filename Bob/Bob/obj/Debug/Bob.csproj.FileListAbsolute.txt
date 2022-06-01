@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\bin\Debug\Bob.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\bin\Debug\Bob.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\bin\Debug\Bob.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\obj\Debug\Bob.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\obj\Debug\Bob.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\obj\Debug\Bob.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\obj\Debug\Bob.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\obj\Debug\Bob.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\obj\Debug\Bob.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\bin\Debug\Bob.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\bin\Debug\Bob.application
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\obj\Debug\Bob.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Bob\Bob\obj\Debug\Bob.application

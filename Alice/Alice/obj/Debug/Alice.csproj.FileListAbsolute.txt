@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Bob\bin\Debug\Bob.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Bob\obj\Debug\Bob.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Bob\obj\Debug\Bob.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Alice\bin\Debug\Bob.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Alice\obj\Debug\Alice.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Alice\bin\Debug\Alice.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Alice\bin\Debug\Alice.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Alice\bin\Debug\Alice.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Alice\obj\Debug\Alice.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Alice\obj\Debug\Alice.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Alice\Alice\obj\Debug\Alice.pdb
